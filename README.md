@@ -1,0 +1,1 @@
+Fraudulent transactions pose a significant challenge to financial institutions. Detecting them efficiently is crucial for maintaining customer trust and reducing losses. This project involves developing a machine learning-based system that can classify transactions as either fraudulent or legitimate using a simulated transaction dataset.
